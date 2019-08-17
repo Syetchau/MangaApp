@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.chip.Chip xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:text="@string/action"
+    app:closeIcon="@drawable/ic_clear_black_24dp"
+    style="@style/Widget.MaterialComponents.Chip.Entry">
+
+</android.support.design.chip.Chip>

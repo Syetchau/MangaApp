@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/dimen_16dp"
+    android:background="@color/colorWhite">
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_chapter_numb"
+        android:text="@string/chapter_1"
+        android:textSize="@dimen/dimen_16sp"
+        android:textColor="@color/colorBlack"/>
+
+</RelativeLayout>

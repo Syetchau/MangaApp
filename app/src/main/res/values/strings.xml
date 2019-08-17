@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ComicReader</string>
+    <string name="new_comic_0">NEW COMIC  (0) </string>
+    <string name="new_comic">NEW COMIC</string>
+    <string name="comic">COMIC</string>
+    <string name="chapter">CHAPTER  (10)</string>
+    <string name="chapter_1">CHAPTER 1</string>
+    <string name="no_page_number">NO PAGE NUMBER</string>
+    <string name="read_first_chapter">You are reading first chapter</string>
+    <string name="read_last_chapter">You are reading last chapter</string>
+    <string name="traslating">This chapter is translating...</string>
+    <string name="no_image">No image here</string>
+    <string name="all_comic">ALL COMIC</string>
+    <string name="filter">Filter</string>
+    <string name="search">Search</string>
+    <string name="enter_category">Enter your category</string>
+    <string name="action">Action</string>
+    <string name="enter_name">Enter name</string>
+    <string name="no_result">No result</string>
+
+</resources>
