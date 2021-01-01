@@ -53,7 +53,9 @@ public class MyComicAdapter extends RecyclerView.Adapter<MyComicAdapter.MyViewHo
 
                 //save comic selected
                 Common.comicSelected = comicList.get(position);
-                context.startActivity(new Intent(context, ChapterActivity.class));
+                Intent intent = new Intent(context, ChapterActivity.class);
+                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                context.startActivity(intent);
             }
         });
     }
